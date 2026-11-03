@@ -3,7 +3,7 @@ export default function HomePage() {
     <main className="min-h-screen bg-white text-slate-900">
       <header className="flex items-center justify-between px-6 py-5 md:px-16">
         <a href="#" className="text-2xl font-black text-blue-900">
-          BB Game
+          dota2
         </a>
 
         <nav className="hidden gap-6 md:flex">
@@ -60,7 +60,7 @@ export default function HomePage() {
         </h2>
         <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {[
-            "Оставляете заявку",
+            "Оставляете заявку, на сайте или Telegram",
             "Получаете расчёт",
             "Подписываем договор",
             "Передаёте товары",
@@ -99,7 +99,7 @@ export default function HomePage() {
 
       <section id="advantages" className="px-6 py-16 md:px-16">
         <h2 className="text-3xl font-bold">
-          Почему выбирают BOXPACK
+          Почему выбирают dota2
         </h2>
         <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {[
